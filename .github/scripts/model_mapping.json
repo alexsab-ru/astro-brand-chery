@@ -1533,7 +1533,7 @@
             }
         },
         "Tiggo 7 Pro Max": {
-            "folder": "tiggo7promax",
+            "folder": "newtiggo7promax",
             "cyrillic": "Тигго 7 Про Макс",
             "color": {
                 "Black": "black.webp",
@@ -1557,7 +1557,7 @@
             }
         },
         "Tiggo 8 Pro Max": {
-            "folder": "tiggo8promax",
+            "folder": "newtiggo8promax",
             "cyrillic": "Тигго 8 Про Макс",
             "color": {
                 "Black": "black.webp",
@@ -1567,7 +1567,7 @@
                 "Серый": "gray.webp",
                 "Стальной серый": "steel-gray.webp",
                 "Серебристый серый": "silver-gray.webp",
-                "Технологичный серый": "gray.webp",
+                "Технологичный серый": "technological-gray.webp",
                 "White": "white.webp",
                 "Белый": "white.webp",
                 "Искрящийся белый": "white.webp",
@@ -1582,17 +1582,17 @@
                 "Изумрудный зеленый": "green.webp"
             }
         },
-        "Tiggo 9 New": {
-            "folder": "tiggo8new",
-            "cyrillic": "Тигго 9 Новинка",
+        "Tiggo 9": {
+            "folder": "tiggo9",
+            "cyrillic": "Тигго 9",
             "color": {
                 "Black": "black.webp",
                 "Черный": "black.webp",
                 "Глубокий черный": "black.webp",
                 "Gray": "gray.webp",
                 "Серый": "gray.webp",
-                "Матовый серый": "gray.webp",
-                "Технологичный серый": "gray.webp",
+                "Матовый серый": "matte-gray.webp",
+                "Технологичный серый": "technological-gray.webp",
                 "White": "white.webp",
                 "Белый": "white.webp",
                 "Искрящийся белый": "white.webp",
@@ -1660,7 +1660,7 @@
                 "Серый": "gray.webp",
                 "Стальной серый": "steel-gray.webp",
                 "Серебристый серый": "silver-gray.webp",
-                "Технологичный серый": "gray.webp",
+                "Технологичный серый": "technological-gray.webp",
                 "White": "white.webp",
                 "Белый": "white.webp",
                 "Искрящийся белый": "white.webp",
