@@ -14,7 +14,9 @@ export default defineConfig({
 		tailwind({
 			configFile: './tailwind.chery.js'
 		}),
-		sitemap(),
+		sitemap({
+			filter: (page) => !page.endsWith('telegram-bot/') && !page.endsWith('redirect/')
+		}),
 		robots({
 			policy: [
 				{
