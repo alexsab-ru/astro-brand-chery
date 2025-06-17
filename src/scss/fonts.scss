@@ -1,5 +1,5 @@
 @use "mixins";
 
-@include mixins.font("HarmonyOS", bold, 700, "https://cdn.alexsab.ru/b/wey/fonts/HarmonyOS_Sans_SC_Bold.woff2");
-@include mixins.font("HarmonyOS", medium, 500, "https://cdn.alexsab.ru/b/wey/fonts/HarmonyOS_Sans_SC_Medium.woff2");
-@include mixins.font("HarmonyOS", normal, 400, "https://cdn.alexsab.ru/b/chery/fonts/HarmonyOS_Sans_SC_Regular.woff2");
+@include mixins.font("HarmonyOS", normal, 400, "https://cdn.alexsab.ru/b/chery/fonts/harmonyos_sans_sc_regular.woff2");
+@include mixins.font("HarmonyOS", medium, 500, "https://cdn.alexsab.ru/b/chery/fonts/harmonyos_sans_sc_medium.woff2");
+@include mixins.font("HarmonyOS", bold, 700, "https://cdn.alexsab.ru/b/chery/fonts/harmonyos_sans_sc_bold.woff2");
